@@ -21,10 +21,10 @@ h3 {
 }
 
 .header {
-  background-image: url("resources/images/flatiron.png");
+  background-image: url("./resources/images/flatiron.png");
 }
 
-.link {
+#link {
   font-size: 18px;
   color: white;
 }
@@ -33,11 +33,12 @@ h3 {
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background-image: url(".resources/images/flatiron.png");
+  background-image: url("./resources/images/flatiron.png");
 }
 
 .footer {
   font-size: 11px;
   color: white;
   background-color: dimgray;
+  text-align: left;
 }
